@@ -1,0 +1,28 @@
+{
+  "header": {
+    "camere": "Camere",
+    "servizi": "Servizi",
+    "doveSiamo": "Dove Siamo",
+    "prenota": "Prenota",
+    "lingua": {
+      "it": "IT",
+      "en": "EN"
+    }
+  },
+  "welcome": {
+    "titolo": "Benvenuti al B&B Palazzo Fiorentino",
+    "paragrafo1": "Situato in un elegante palazzo storico nel cuore di Firenze, il nostro B&B offre un'esperienza di soggiorno autentica e raffinata.",
+    "paragrafo2": "Le nostre camere, arredate con gusto e attenzione ai dettagli, combinano il fascino dell'architettura storica fiorentina con tutti i comfort moderni per garantirvi un soggiorno indimenticabile.",
+    "paragrafo3": "A pochi passi dai principali monumenti e attrazioni della città, il B&B Palazzo Fiorentino è la base ideale per esplorare le meraviglie di Firenze.",
+    "altImmagine": "Ingresso del Palazzo Fiorentino"
+  },
+  "footer": {
+    "slogan": "La tua casa nel cuore di Firenze",
+    "collegamenti": "Collegamenti Rapidi",
+    "contatti": "Contatti",
+    "indirizzo": "Via dei Calzaiuoli 15, 50122 Firenze",
+    "diritti": "Tutti i diritti riservati",
+    "privacy": "Privacy Policy",
+    "termini": "Termini e Condizioni"
+  }
+}

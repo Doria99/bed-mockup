@@ -1,0 +1,28 @@
+{
+  "header": {
+    "camere": "Rooms",
+    "servizi": "Services",
+    "doveSiamo": "Location",
+    "prenota": "Book Now",
+    "lingua": {
+      "it": "IT",
+      "en": "EN"
+    }
+  },
+  "welcome": {
+    "titolo": "Welcome to B&B Palazzo Fiorentino",
+    "paragrafo1": "Located in an elegant historic palace in the heart of Florence, our B&B offers an authentic and refined stay experience.",
+    "paragrafo2": "Our rooms, furnished with taste and attention to detail, combine the charm of historic Florentine architecture with all modern comforts to ensure an unforgettable stay.",
+    "paragrafo3": "Just a few steps from the main monuments and attractions of the city, B&B Palazzo Fiorentino is the ideal base for exploring the wonders of Florence.",
+    "altImmagine": "Palazzo Fiorentino Entrance"
+  },
+  "footer": {
+    "slogan": "Your home in the heart of Florence",
+    "collegamenti": "Quick Links",
+    "contatti": "Contacts",
+    "indirizzo": "Via dei Calzaiuoli 15, 50122 Florence",
+    "diritti": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "termini": "Terms and Conditions"
+  }
+}
