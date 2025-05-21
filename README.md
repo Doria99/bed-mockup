@@ -50,3 +50,4 @@ Questo è un mockup statico che simula l'aspetto e alcune funzionalità di base 
 ---
 
 Creato come mockup dimostrativo per un B&B toscano.# bed-mockup
+# bed-mockup
